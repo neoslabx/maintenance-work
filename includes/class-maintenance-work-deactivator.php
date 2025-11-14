@@ -2,7 +2,7 @@
 /**
  * Fired during plugin deactivation
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Maintenance_Work
@@ -15,7 +15,7 @@
  * @since 1.0.0
  * @package Maintenance_Work
  * @subpackage Maintenance_Work/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Maintenance_Work_Deactivator
 {

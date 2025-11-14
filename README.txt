@@ -1,10 +1,10 @@
 === Maintenance Work ===
-Contributors: NeosLab
+Contributors: Sqoove
 Tags: maintenance mode, wordpress maintenance mode, wordpress maintenance, under maintenance, maintenance
 Requires at least: 4.9
 Tested up to: 6.8.2
 Stable tag: 2.2.9
-License URI: https://raw.githubusercontent.com/neoslabx/maintenance-work/refs/heads/main/LICENSE
+License URI: https://raw.githubusercontent.com/sqoove/maintenance-work/refs/heads/main/LICENSE
 
 Add a maintenance page to your website that lets visitors know your page is down for maintenance while allowing you to work on the background.
 

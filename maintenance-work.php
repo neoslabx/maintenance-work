@@ -7,7 +7,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Maintenance_Work
  *
@@ -16,8 +16,8 @@
  * Plugin URI: https://wordpress.org/plugins/maintenance-work/
  * Description: Add a maintenance page to your website that lets visitors know your page is down for maintenance and allowing to work on beside of this.
  * Version: 2.2.9
- * Author: NeosLab
- * Author URI: https://neoslab.com
+ * Author: Sqoove
+ * Author URI: https://sqoove.com
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain: maintenance-work

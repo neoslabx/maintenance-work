@@ -2,7 +2,7 @@
 /**
  * The admin-specific functionality of the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Maintenance_Work
  * @subpackage Maintenance_Work/admin
@@ -12,7 +12,7 @@
  * Class `Maintenance_Work_Admin`
  * @package Maintenance_Work
  * @subpackage Maintenance_Work/admin
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Maintenance_Work_Admin
 {
