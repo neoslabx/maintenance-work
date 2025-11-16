@@ -29,6 +29,12 @@ Add a maintenance page to your website that lets visitors know your page is down
 
 ## Changelog
 
+### 2.3.0 (2025-11-16)
+
+- Added WPML support for page content
+- Code revision and optimization
+- Security and performance audit
+
 ### 2.2.9 (2025-04-25)
 
 - Code revision and optimization
