@@ -165,7 +165,7 @@ class Maintenance_Work_Admin
 
 				if(isset($_POST['_maintenance_work']['description']))
 				{
-					$opts['description'] = sanitize_text_field($_POST['_maintenance_work']['description']);
+					$opts['description'] = wp_kses_post($_POST['_maintenance_work']['description']);
 					if((empty($opts['description'])) || (strlen($opts['description']) < 3))
 					{
 						header('location:'.admin_url('options-general.php?page=maintenance-work-admin').'&output=error&type=description');

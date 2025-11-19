@@ -22,7 +22,7 @@
                 <h1><i class="fa-solid fa-gears"></i></h1>
             </div>
             <h2><?php echo esc_attr($maintenance['title']); ?></h2>
-            <p><?php echo esc_attr($maintenance['description']); ?></p>
+            <p><?php echo wp_kses_post($maintenance['description']); ?></p>
             <a href="<?php echo get_site_url(); ?>"><?php echo _e('Refresh Page', 'maintenance-work'); ?></a>
         </div>
     </div>
