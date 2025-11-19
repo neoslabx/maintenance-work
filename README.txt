@@ -3,7 +3,7 @@ Contributors: Sqoove
 Tags: maintenance mode, wordpress maintenance mode, wordpress maintenance, under maintenance, maintenance
 Requires at least: 4.9
 Tested up to: 6.8.3
-Stable tag: 2.3.0
+Stable tag: 2.3.1
 License URI: https://raw.githubusercontent.com/sqoove/maintenance-work/refs/heads/main/LICENSE
 
 Add a maintenance page to your website that lets visitors know your page is down for maintenance while allowing you to work on the background.
@@ -23,6 +23,10 @@ Add a maintenance page to your website that lets visitors know your page is down
 1. A general view of the plugin "options" page.
 
 == Changelog ==
+
+= 2.3.1 (2025-11-19) =
+* Fontawesome update
+* Code revision and optimization
 
 = 2.3.0 (2025-11-16) =
 * Added WPML support for page content
